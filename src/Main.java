@@ -27,7 +27,6 @@ public class Main {
             int shalvesIndex = (i * 5) / booksTitle.size();
             shelves.get(shalvesIndex).add(booksTitle.get(i));
         }
-
         return shelves;
     }
 
