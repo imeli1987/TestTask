@@ -37,6 +37,7 @@ public class Main {
 
         for (int i = 0; i < distributeBooks.size(); i++) {
             System.out.println("Полка " + (i + 1) + ": " + distributeBooks.get(i));
+
         }
      }
 }
